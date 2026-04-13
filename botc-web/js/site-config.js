@@ -20,7 +20,7 @@ const SITE_CONFIG = {
     // ==========================================
 
     // Community name shown in the header
-    communityName: 'Blood on the Clocktower',
+    communityName: 'We are the Alsaahir, we are Legion.',
 
     // Minimum games a player needs to appear on the leaderboard
     minGamesForLeaderboard: 1,
