@@ -23,7 +23,7 @@ const SITE_CONFIG = {
     communityName: 'We are the Alsaahir, we are Legion.',
 
     // Minimum games a player needs to appear on the leaderboard
-    minGamesForLeaderboard: 1,
+    minGamesForLeaderboard: 10,
 
     // ELO settings
     defaultRating: 1500,    // Starting ELO for new players
