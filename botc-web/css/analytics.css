@@ -243,11 +243,6 @@
     color: #a855f7;
 }
 
-.category-badge.legacy {
-    background: rgba(237, 169, 9, 0.2);
-    color: #eda909;
-}
-
 .role-type-badge.townsfolk {
     background: rgba(52, 211, 153, 0.2);
     color: #34d399;
