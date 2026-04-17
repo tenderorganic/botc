@@ -29,7 +29,7 @@ CREATE TABLE access_codes (
 CREATE TABLE scripts (
     id SERIAL PRIMARY KEY,
     name TEXT UNIQUE NOT NULL,
-    category TEXT DEFAULT 'Normal' CHECK (category IN ('Normal', 'Teensyville','Legacy')),
+    category TEXT DEFAULT 'Normal' CHECK (category IN ('Normal', 'Teensyville')),
     created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
