@@ -24,7 +24,21 @@ const NORMAL_SCRIPTS = new Set([
     "trained killer",
     "irrational behavior",
     "binary supernovae",
-    "everybody can play"
+    "everybody can play",
+    burn the witch",
+    "custom/experimental",
+    "i'll be good this once",
+    "legacy",
+    "off to see the wizard",
+    "opium den",
+    "out & proud",
+    "snake oil & parlor tricks",
+    "the beginning is the end",
+    "the grimm chorus",
+    "who, me?",
+    "why the hell you lying?",
+    "yay or nay?",
+
 ]);
 
 // Character role type mapping
