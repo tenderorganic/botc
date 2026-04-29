@@ -25,7 +25,7 @@ const NORMAL_SCRIPTS = new Set([
     "irrational behavior",
     "binary supernovae",
     "everybody can play",
-    burn the witch",
+    "burn the witch",
     "custom/experimental",
     "i'll be good this once",
     "legacy",
