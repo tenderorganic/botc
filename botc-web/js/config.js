@@ -16,7 +16,20 @@ export const NORMAL_SCRIPTS = new Set([
     "trained killer",
     "irrational behavior",
     "binary supernovae",
-    "everybody can play"
+    "everybody can play",
+    "burn the witch",
+    "custom/experimental",
+    "i'll be good this once",
+    "legacy",
+    "off to see the wizard",
+    "opium den",
+    "out & proud",
+    "snake oil & parlor tricks",
+    "the beginning is the end is the beginning",
+    "the grimm chorus",
+    "who, me?",
+    "why the hell you lying?",
+    "yay or nay?"
 ]);
 
 // List of commonly used game modes/scripts for dropdown menus
