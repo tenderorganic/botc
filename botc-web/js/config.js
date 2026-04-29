@@ -34,7 +34,7 @@ export const COMMON_SCRIPTS = [
     "Trained Killer",
     "Irrational Behavior",
     "Binary Supernovae",
-    "A Leech of Distrust",
+    "A Lleech of Distrust",
     "Everybody Can Play",
 ];
 
